@@ -1,0 +1,33 @@
+
+
+.im {
+    padding-left: 41%;
+    
+    height: 290px;
+   
+    align-items: center;
+}
+
+.imgs {
+    display: inline-flex;
+    flex-direction: row;
+    height: 200px;
+    padding-left: 0%;
+
+    margin-left: 15%;
+    background-color: aliceblue;
+    border: 1px solid red;
+}
+
+.imgs {
+
+    
+}
+
+button {
+    color: rgb(245, 245, 245);
+    font-size: medium;
+    background-color: rgb(35, 35, 185);
+
+    width: 100px;
+}
